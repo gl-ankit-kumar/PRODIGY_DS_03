@@ -1,8 +1,6 @@
-## PRODIGY_DS_03
-## EXPLORATORY DATA ANALYSIS AND DECISION TREE CLASSIFICATION ON BANK MARKETING DATASET
-
 ## Prodigy Infotech Data Science Internship Task 03
 
+## EXPLORATORY DATA ANALYSIS AND DECISION TREE CLASSIFICATION ON BANK MARKETING DATASET
 <div align="center">
  <img src="https://github.com/gl-ankit-kumar/PRODIGY_DS_03/blob/main/bank-marketing.png" alt="Bank Marketing Logo">
 </div>
